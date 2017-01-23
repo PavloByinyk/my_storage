@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple_Music_Player_Read_songs_from_SD</string>
+    <string name="title_activity_play">Play</string>
+</resources>
